@@ -1,2 +1,2 @@
-Haixiao is testing.
+Haixiao is running.
 Git is free software.
