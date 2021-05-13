@@ -1,2 +1,2 @@
-Git is a version control system.
+Haixiao is testing.
 Git is free software.
