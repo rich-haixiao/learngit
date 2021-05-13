@@ -1,2 +1,2 @@
-Haixiao is comming.
+Haixiao is moving.
 Git is free software.
