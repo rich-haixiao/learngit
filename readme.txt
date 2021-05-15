@@ -1,2 +1,1 @@
-Haixiao is working.
-Git is free software.
+Haixiao is learning git.
